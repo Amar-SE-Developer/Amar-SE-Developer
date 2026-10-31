@@ -1,19 +1,35 @@
-# 👋 Hi, I'm Amarnadh!
+# 👋 Hi, I'm Amarnadh
+
+### AI Engineer in the Making | SAP BTP LLM Developer | Generative & Agentic AI
+
+I build intelligent applications that bridge **LLMs, software engineering, and real-world business problems.**
+
+Currently working with **SAP BTP, Python, Generative AI, RAG, and Agentic Workflows** — exploring how AI agents can make applications smarter, more autonomous, and impactful.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=SAP+BTP+LLM+Developer;Generative+AI+%7C+Agentic+AI+Engineer;Building+Intelligent+Applications+with+Python;Exploring+LLMs%2C+RAG%2C+MCP+%26+AI+Agents;Turning+Ideas+into+AI-Powered+Solutions" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&height=55&lines=SAP+BTP+%7C+LLM+Application+Developer;Engineering+Intelligent+AI+Applications;Generative+AI+%7C+RAG+%7C+Agentic+Workflows;Python+%7C+LLMs+%7C+LangChain+%7C+LangGraph;Exploring+MCP+%26+the+Future+of+AI+Agents;Turning+Complex+Problems+into+AI-Powered+Solutions" alt="Animated AI engineering introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Amar-SE-Developer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/amarnadh-karpurapu-47094321b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-SAP%20BTP%20LLM%20Developer-0FA36B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20LLMs-8A2BE2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-Agentic%20AI-0FA36B?style=for-the-badge" alt="Building" />
 </p>
+
+---
+
+### ⚡ What I Do
+
+- 🤖 Develop LLM-powered applications and AI-driven workflows.
+- 🧠 Explore RAG, prompt engineering, LangChain, and LangGraph.
+- 🔗 Integrate AI capabilities with enterprise platforms and backend services.
+- 🛠️ Build practical solutions using Python and SAP BTP.
+- 🚀 Explore MCP, AI agents, and emerging Generative AI technologies.
 
 ---
 
@@ -83,7 +99,6 @@ I enjoy building intelligent applications that combine Large Language Models, Ag
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OCR-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge" />
 </p>
 
 - Machine Learning Fundamentals
@@ -231,13 +246,15 @@ Seshadri Rao Gudlavalleru Engineering College
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amar-SE-Developer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-SE-Developer&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Amar-SE-Developer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amar-SE-Developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Amar-SE-Developer&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Amar-SE-Developer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 🐍 My Contribution Snake
 
@@ -251,13 +268,18 @@ Seshadri Rao Gudlavalleru Engineering College
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Build Something Intelligent!
 
-I'm always interested in connecting with developers, AI enthusiasts, and professionals working on Generative AI, Machine Learning, and intelligent applications.
+I'm always excited to connect with **AI engineers, developers, innovators, and technology enthusiasts** who are passionate about Generative AI, LLMs, Machine Learning, and Agentic Systems.
+
+Whether it's exchanging ideas, exploring emerging AI technologies, collaborating on projects, or discussing exciting opportunities — **I'd love to hear from you!**
 
 <p align="center">
+  <a href="mailto:amarnadh.karpurapu.032001@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/amarnadh-karpurapu-47094321b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Amar-SE-Developer">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
@@ -265,5 +287,12 @@ I'm always interested in connecting with developers, AI enthusiasts, and profess
 </p>
 
 <p align="center">
-  <b>Building Today. Learning Every Day. Innovating with AI. 🚀</b>
+  <i>Always learning. Always building. Always exploring what's next in AI. 🚀</i>
 </p>
+
+---
+
+<p align="center">
+  <sub>⭐ If you find my work interesting, consider following me and exploring my repositories!</sub>
+</p>
+
